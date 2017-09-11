@@ -18,8 +18,8 @@ ESPortal is distributed under the MIT License. The license and copyright notice 
 Accessing ESPortal Main Menu  
 -----  
   
-SSID: "Free WiFi"
-http://192.168.1.1/esportal  
+SSID: "Free WiFi"  
+URL:  http://192.168.1.1/esportal  
   
 -----  
 Configure ESPortal  
