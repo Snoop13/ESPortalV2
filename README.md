@@ -15,6 +15,13 @@ ESPortal is a WiFi Captive Portal Credential Harvester for ESP8266 Devices.
 ESPortal is distributed under the MIT License. The license and copyright notice can not be removed and must be distributed alongside all future copies of the software.  
   
 -----  
+Accessing ESPortal Main Menu  
+-----  
+  
+SSID: "Free WiFi"
+http://192.168.1.1/esportal  
+  
+-----  
 Configure ESPortal  
 -----  
   
